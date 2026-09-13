@@ -15,3 +15,4 @@ I have recently encountered **C** (C89 specifically), a language I have absolute
 - **Package-Manager** (unnamed for now) > A package manager for Omicron with its own repositories.
 
 All projects except the package manager use Semantic Versioning but all releases before 1.0.0 are unstable.
+Some of my projects have been done on my local git and uploaded in bulk to GitHub.

@@ -7,7 +7,7 @@ I have recently encountered **C** (C89 specifically), a language I have absolute
 - **Teddy-Editor** - A modeless text editor I wrote in C89 that I may add new features as I start using it more and more. It was named "Teddy" because the first 3 letters stand for "**T**ext **Ed**itor".
 - **ArchLinuxDotfiles** - My arch linux configuration made to look as beautiful as possible (in my opinion). Since it's my daily driver, new features and bug fixes will constantly be added.
 - **Mesh-Shell** - A simple shell I wrote in C that does one thing well, which is just being a shell, not a full programming language, fuzzy finder and environment manager like bash. It was named "Mesh" because it combines "m" from "minimal" and "sh" from "shell" in one word.
-- **Labrador-Greeter** - A minimal login manager written in C. I named it "Labrador-Greeter" because it's as friendly and loyal as a Labrador.
+- **Labrador-Greeter** - A minimal login greeter written in C. I named it "Labrador-Greeter" because it's as friendly and loyal as a Labrador.
 - **Omicron-Init** - An init system inspired by the minimalism of runit. Compatible with "Mesh-Shell" "Package-Manager", "Teddy-Editor", and "Labrador-Greeter". Might become its own Linux distribution.
 
 ## What projects I still have locally in development

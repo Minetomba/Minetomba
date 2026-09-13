@@ -11,8 +11,8 @@ I have recently encountered **C** (C89 specifically), a language I have absolute
 - **Omicron-Init** - An init system inspired by the minimalism of runit. Compatible with "Mesh-Shell" "Package-Manager", "Teddy-Editor", and "Labrador-Greeter". Might become its own Linux distribution.
 
 ## What projects I still have locally in development
-- **Kernel** (unnamed for now) > A kernel for x86_64 (RV32GC support planned) capable of scheduling, launching an init system, and bare-minimum syscalls.
-- **Package-Manager** (unnamed for now) > A package manager for Omicron with its own repositories.
+- **Kernel** (unnamed for now) - A kernel for x86_64 (RV32GC support planned) capable of scheduling, launching an init system, and bare-minimum syscalls.
+- **Package-Manager** (unnamed for now) - A package manager for Omicron with its own repositories.
 
 All projects except the package manager use Semantic Versioning but all releases before 1.0.0 are unstable.
 Some of my projects have been done on my local git and uploaded in bulk to GitHub.

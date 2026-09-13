@@ -5,7 +5,7 @@ I have recently encountered C (C89 specifically), a language I have absolutely f
 
 ## What projects are on here
 - Teddy-Editor: A modeless text editor I wrote in C that I may add new features as I start using it more and more. It was named "Teddy" because the first 3 letters stand for "Text editor".
-- ArchLinuxDotfiles: The name kind of gives it away, but it's my arch linux configuration with an installation script. Since it's my daily driver, new features and bug fixes will constantly be added.
+- ArchLinuxDotfiles: The name kind of gives it away, but it's my arch linux configuration. Since it's my daily driver, new features and bug fixes will constantly be added.
 - Mesh-Shell: It's a simple shell I wrote in C that does one thing well, which is just being a shell, not a full programming language, fuzzy finder and environment manager like bash. It was named "Mesh" because it combines "m" from "minimal" and "sh" from "shell" in one word.
 
 ## What projects I still have locally in development

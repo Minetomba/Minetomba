@@ -10,13 +10,4 @@ I have recently encountered **C** (C89 specifically), a language I have absolute
 
 ## What projects I still have locally in development
 - **Omicron-Ecosystem** > Consisting of 3 folders named "Mesh-Shell" (same one I have on here), "Login-Cli" (same login manager as the one embedded by default in ArchLinuxDotfiles), and "Omicron" (a very minimal init system like runit), it is its own Linux distribution with its own init system, shell, and login manager. The testing environment (that uses Docker), however, is put on top of Alpine linux for simplicity reasons. I have not yet decided if I'll be posting it with the name "Omicron-Ecosystem" and include the full embedded testing environment or just posting the init system with the name "Omicron-Init".
-- **Games** > Just classic snake and a wordle solver, nothing much.
 - **Kernel** (unnamed for now) > A kernel for x86_64 (RV32GC support planned) capable of scheduling, launching an init system, and bare-minimum syscalls.
-
-## What I wrote by hand versus what AI wrote
-- **Teddy-Editor** > I wrote everything but had some help from DeepSeek related to the input library and file handling library.
-- **ArchLinuxDotfiles** > I wrote everything except for the login manager.
-- **Mesh-Shell** > I wrote it fully.
-- **Omicron-Ecosystem** > I wrote everything except for the login manager.
-- **Games** > All AI.
-- **Kernel** > All me.

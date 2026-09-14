@@ -12,7 +12,7 @@ I have encountered **C** (C89 specifically) in early 2026, a language I have abs
 
 ## What projects I still have locally in development
 - **Package-Manager** (unnamed for now) - A package manager for Omicron with its own repositories.
-- **PASM-Lang** - A minimal systems programming language made for portability. Further information will be released when the language is finished.
+- **PASM-Lang** - A minimal systems programming language made for portability. Further information will be released when the language is finished. Named after "**P**ortable **As**se**m**bly".
 
 All projects except the package manager use Semantic Versioning with past tense commits but all releases before 1.0.0 are unstable.
 Some of my projects have been done on my local git and uploaded in bulk to GitHub.

@@ -2,6 +2,7 @@
 My online pseudonym is **Minetomba**, and I speak both **Romanian** (native) and **English** (fluent).
 I like writing projects by hand, especially when replacing things I already use.
 I have encountered **C** (C89 specifically) in early 2026, a language I have absolutely fallen in love with by how simple it is yet how powerful it can be.
+Some of my projects have been done on my local git and uploaded in bulk to GitHub, but that's gonna happen less often as I get more used to using this platform. I started using GitHub on a daily basis since September 12 2026.
 
 ## What projects are on here
 - **Teddy-Editor** - A modeless text editor I wrote in C89 that I may add new features as I start using it more and more. It was named "Teddy" because the first 3 letters stand for "**T**ext **Ed**itor".
@@ -15,5 +16,4 @@ I have encountered **C** (C89 specifically) in early 2026, a language I have abs
 - **Package-Manager** (unnamed for now) - A package manager for Omicron with its own repositories.
 
 All projects except the package manager use Semantic Versioning with past tense commits but all releases before 1.0.0 are unstable.
-Some of my projects have been done on my local git and uploaded in bulk to GitHub.
 The package manager project has versioning based on the commit number as tags rather than in the commit message, and uses imperative commit messages.

@@ -9,10 +9,10 @@ I have encountered **C** (C89 specifically) in early 2026, a language I have abs
 - **Mesh-Shell** - A simple shell I wrote in C that does one thing well, which is just being a shell, not a full programming language, fuzzy finder and environment manager like bash. It was named "Mesh" because it combines "m" from "minimal" and "sh" from "shell" in one word.
 - **Labrador-Greeter** - A minimal login greeter written in C. I named it "Labrador-Greeter" because it's as friendly and loyal as a Labrador.
 - **Omicron-Init** - An init system inspired by the minimalism of runit. Compatible with "Mesh-Shell", "Package-Manager", "Teddy-Editor", and "Labrador-Greeter". Might become its own Linux distribution if I make more projects centered around it.
+- **PASM-Lang** - A minimal systems programming language made for portability across multiple CPU architectures ranging from RISC to CISC. Named after "**P**ortable **As**se**m**bly".
 
 ## What projects I still have locally in development
 - **Package-Manager** (unnamed for now) - A package manager for Omicron with its own repositories.
-- **PASM-Lang** - A minimal systems programming language made for portability. Further information will be released when the language is finished. Named after "**P**ortable **As**se**m**bly".
 
 All projects except the package manager use Semantic Versioning with past tense commits but all releases before 1.0.0 are unstable.
 Some of my projects have been done on my local git and uploaded in bulk to GitHub.

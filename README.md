@@ -13,5 +13,6 @@ Some of my projects have been done on my local git and uploaded in bulk to GitHu
 
 ## What projects I still have locally in development
 - **Package-Manager** (unnamed for now) - A package manager for Omicron with its own repositories.
+- **Programming-Language** (unnamed for now) - A portable B-like programming language.
 
 Most projects use Semantic Versioning with past tense commits; Releases before v1.0.0 are unstable.

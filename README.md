@@ -15,5 +15,4 @@ Some of my projects have been done on my local git and uploaded in bulk to GitHu
 ## What projects I still have locally in development
 - **Package-Manager** (unnamed for now) - A package manager for Omicron with its own repositories.
 
-All projects except the package manager use Semantic Versioning with past tense commits but all releases before 1.0.0 are unstable.
-The package manager project has versioning based on the commit number as tags rather than in the commit message, and uses imperative commit messages.
+Most projects use Semantic Versioning with past tense commits; Releases before v1.0.0 are unstable.

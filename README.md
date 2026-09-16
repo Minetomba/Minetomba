@@ -10,7 +10,7 @@ Some of my projects have been done on my local git and uploaded in bulk to GitHu
 - **Mesh-Shell** - A simple shell I wrote in C that does one thing well, which is just being a shell, not a full programming language, fuzzy finder and environment manager like bash. It was named "Mesh" because it combines "m" from "minimal" and "sh" from "shell" in one word.
 - **Labrador-Greeter** - A minimal login greeter written in C. I named it "Labrador-Greeter" because it's as friendly and loyal as a Labrador.
 - **Omicron-Init** - An init system inspired by the minimalism of runit. Compatible with "Mesh-Shell", "Package-Manager", "Teddy-Editor", and "Labrador-Greeter". Might become its own Linux distribution if I make more projects centered around it.
-- **Pasm-Lang** - **P**ortable **As**se**m**bly is a portable version of assembly, primarily made for 64-bit systems. It currently supports full compilation to x86_64 and aarch64.
+
 ## What projects I still have locally in development
 - **Package-Manager** (unnamed for now) - A package manager for Omicron with its own repositories.
 

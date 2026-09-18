@@ -9,8 +9,8 @@ Some of my projects have been done on my local git and uploaded in bulk to GitHu
 - **ArchLinuxDotfiles** - My arch linux configuration made to look as beautiful as possible (in my opinion). Since it's my daily driver, new features and bug fixes will constantly be added.
 - **Mesh-Shell** - A simple shell I wrote in C that does one thing well, which is just being a shell, not a full programming language, fuzzy finder and environment manager like bash. It was named "Mesh" because it combines "m" from "minimal" and "sh" from "shell" in one word.
 - **Labrador-Greeter** - A minimal login greeter written in C. I named it "Labrador-Greeter" because it's as friendly and loyal as a Labrador.
-- **Omicron-Init** - An init system inspired by the minimalism of runit. Compatible with "Mesh-Shell", "Package-Manager", "Teddy-Editor", and "Labrador-Greeter". Might become its own Linux distribution if I make more projects centered around it. (Also, I only realized on September 18 2026 what the name was used for other than the 15th greek letter 🤣).
-- **Micronian-Linux** - A minimalist Linux distribution inspired by Static Linux (suckless), Omicron-Init, Mesh-Shell, and busybox.
+- **Atom-Init** - An init system inspired by the minimalism of runit.
+- **Micronian-Linux** - A minimalist Linux distribution.
 
 ## What projects I still have locally in development
 - **Package-Manager** (unnamed for now) - A package manager for Omicron with its own repositories.
